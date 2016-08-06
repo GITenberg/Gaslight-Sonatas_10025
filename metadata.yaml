@@ -1,0 +1,32 @@
+_repo: Gaslight-Sonatas_10025
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hurst, Fannie
+    alias: Danielson, Fannie Hurst
+    birthdate: 1889
+    deathdate: 1968
+    gutenberg_agent_id: '3177'
+    url: http://www.gutenberg.org/2009/agents/3177
+    wikipedia: http://en.wikipedia.org/wiki/Fannie_Hurst
+description: ''
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10025'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Slums -- Fiction'
+- !lcsh 'Immigrants -- Fiction'
+- !lcsh 'Poor -- Fiction'
+- !lcsh 'Short stories, American'
+- !lcc 'PS'
+- !lcsh 'City and town life -- Fiction'
+- GITenberg
+tableOfContents: Bitter-sweet -- Sieve of fulfilment -- Ice-water, pl-! -- Hers not
+  to reason why -- Golden Fleece -- Nightshade -- Get ready the wreaths.
+title: Gaslight Sonatas
+url: http://www.gutenberg.org/ebooks/10025
